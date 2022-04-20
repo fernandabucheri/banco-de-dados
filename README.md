@@ -1,6 +1,6 @@
 # Implementação de um banco de dados
 
-Projeto com objetivo de implementar um banco de dados de uma rodoviária utilizando a linguagem **SQL**. 
+Projeto com objetivo de implementar um banco de dados de uma rodoviária utilizando a linguagem **SQL**.
 
 <br>
 
